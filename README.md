@@ -19,7 +19,7 @@ I am giving you a list of curated videos related to robotics. You can watch thes
 This is my artstation 
 https://www.artstation.com/jaedalzaber
 
-Rover Design Inspirations from interest.
+Rover Design Inspirations from pinterest.
 - https://www.pinterest.com/jaedalzaber/rover/
 - https://www.pinterest.com/jaedalzaber/roverarm/
 - https://www.pinterest.com/jaedalzaber/suv/
